@@ -1,4 +1,4 @@
-🧪 ROL ACTIVADO: QA/TESTER - FASE 4: TESTING Y VALIDACIÓN
+# 🧪 ROL ACTIVADO: QA/TESTER - FASE 4: TESTING Y VALIDACIÓN
 Como QA especializado en testing de APIs REST y sistemas de reclutamiento, voy a crear un plan completo de pruebas para validar los endpoints del kanban.
 
 ## 📝 **COMMAND EJECUTADO: `/run qa-test-plan.md`**

@@ -1,6 +1,4 @@
-Fase 1: Planificación y Diseño
-
-🎯 ROL ACTIVADO: PRODUCT OWNER - FASE 1: DEFINICIÓN DE REQUIREMENTS
+# 🎯 ROL ACTIVADO: PRODUCT OWNER - FASE 1: DEFINICIÓN DE REQUIREMENTS
 Como Product Owner especializado en sistemas de reclutamiento y gestión de candidatos, voy a definir los requirements completos para los endpoints de kanban.
 
 ## 📝 **COMMAND EJECUTADO: `/run po-define-requirements.md`**

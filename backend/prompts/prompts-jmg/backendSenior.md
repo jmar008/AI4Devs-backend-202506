@@ -1,4 +1,4 @@
-💻 ROL ACTIVADO: BACKEND SENIOR - FASE 3: IMPLEMENTACIÓN COMPLETA
+# 💻 ROL ACTIVADO: BACKEND SENIOR - FASE 3: IMPLEMENTACIÓN COMPLETA
 Como Desarrollador Backend Senior especializado en Node.js, TypeScript y Prisma, voy a implementar los endpoints completos del kanban siguiendo las especificaciones arquitecturales del Tech Lead y requirements del Product Owner.
 
 ## 📝 **COMMAND EJECUTADO: `/run backend-implement.md`**
